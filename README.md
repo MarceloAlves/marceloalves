@@ -4,9 +4,9 @@ Hi, I'm Marcelo, a web developer from California. Currently a senior frontend de
 
 **Currently:**
 
-* 💼 Working on apps that help dairies take care of animals
-* 🌱 Learning about state machines & graphql
-* 👾 Playing [Apex Legends](https://www.ea.com/games/apex-legends) and [Valheim](https://www.valheimgame.com/)
+* 💼  Working on apps that help dairies take care of animals
+* 🌱  Learning about state machines & graphql
+* 👾  Playing [Apex Legends](https://www.ea.com/games/apex-legends) and [Valheim](https://www.valheimgame.com/)
 
 **Ongoing Projects:**
 
