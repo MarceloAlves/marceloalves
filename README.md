@@ -6,7 +6,7 @@ Hi, I'm Marcelo, a web developer from California. Currently a senior frontend de
 
 * 💼  Working on apps that help dairies take care of animals
 * 🌱  Learning about state machines & graphql
-* 👾  Playing [Apex Legends](https://www.ea.com/games/apex-legends) and [Valheim](https://www.valheimgame.com/)
+* 👾  Playing [Apex Legends](https://www.ea.com/games/apex-legends) and [Tribes of Midgard](https://www.tribesofmidgard.com/)
 
 **Ongoing Projects:**
 
