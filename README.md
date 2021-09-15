@@ -1,12 +1,12 @@
 ### Hello! 👋
 
-Hi, I'm Marcelo, a web developer from California. Currently a senior frontend dev / tech lead at [VAS](https://web.vas.com/).
+Hi, I'm Marcelo, a web developer from California. Currently a senior software engineer at [STORD](https://stord.com). Previously senior frontend dev / tech lead at [VAS](https://web.vas.com/).
 
 **Currently:**
 
-* 💼  Working on apps that help dairies take care of animals
+* 💼  Building the cloud supply chain
 * 🌱  Learning about state machines & graphql
-* 👾  Playing [Apex Legends](https://www.ea.com/games/apex-legends) and [Tribes of Midgard](https://www.tribesofmidgard.com/)
+* 👾  Playing [Destiny 2](https://destinytracker.com/destiny-2/profile/bungie/4611686018429828882/overview)
 
 **Ongoing Projects:**
 
