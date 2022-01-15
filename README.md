@@ -6,7 +6,7 @@ Hi, I'm Marcelo, a web developer from California. Currently a senior software en
 
 * 💼  Building the cloud supply chain
 * 🌱  Learning about state machines & graphql
-* 👾  Playing [Destiny 2](https://destinytracker.com/destiny-2/profile/bungie/4611686018429828882/overview)
+* 👾  Playing [Fortnite](https://fortnitetracker.com/profile/all/celo_fett), Guardians of the Galaxy, Halo
 
 **Ongoing Projects:**
 
