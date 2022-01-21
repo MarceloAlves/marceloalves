@@ -5,7 +5,7 @@ Hi, I'm Marcelo, a web developer from California. Currently a senior software en
 **Currently:**
 
 * 💼  Building the cloud supply chain
-* 🌱  Learning about state machines & graphql
+* 🌱  Learning about module federation, state machines & graphql
 * 👾  Playing [Fortnite](https://fortnitetracker.com/profile/all/celo_fett), Guardians of the Galaxy, God of War (PC)
 
 **Ongoing Projects:**
