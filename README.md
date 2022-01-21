@@ -6,10 +6,10 @@ Hi, I'm Marcelo, a web developer from California. Currently a senior software en
 
 * 💼  Building the cloud supply chain
 * 🌱  Learning about state machines & graphql
-* 👾  Playing [Fortnite](https://fortnitetracker.com/profile/all/celo_fett), Guardians of the Galaxy, Halo
+* 👾  Playing [Fortnite](https://fortnitetracker.com/profile/all/celo_fett), Guardians of the Galaxy, God of War (PC)
 
 **Ongoing Projects:**
-
+* [Heroes Play Games](https://www.heroesplaygames.com/) - An Extra Life team led by my buddy [Mark](https://twitter.com/borntolone) to raise money for [Valley Children's Hospital](https://www.valleychildrens.org/)
 * [SWRPG Shop](https://swrpg-shop.com) - GM's use this tool to randomly generate item shops for players
 * [PitLogger](https://pitlogger.vercel.app/) - Digital BBQ'ing logbook
 * [Starbound Items](https://starbounditems.com/) - Item lookup for the game [Starbound](https://playstarbound.com/)
