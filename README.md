@@ -5,8 +5,8 @@ Hi, I'm Marcelo, a web developer from California. Currently a senior software en
 **Currently:**
 
 * 💼  Building the cloud supply chain
-* 🌱  Learning about module federation, state machines & graphql
-* 👾  Playing Lost Ark, [Fortnite](https://fortnitetracker.com/profile/all/celo_fett), Guardians of the Galaxy, God of War (PC)
+* 🌱  Learning about state machines & design systems
+* 👾  Playing [Fortnite](https://fortnitetracker.com/profile/all/celo_fett) or Splitgate
 
 **Ongoing Projects:**
 * [Heroes Play Games](https://www.heroesplaygames.com/) - An Extra Life team led by my buddy [Mark](https://twitter.com/borntolone) to raise money for [Valley Children's Hospital](https://www.valleychildrens.org/)
