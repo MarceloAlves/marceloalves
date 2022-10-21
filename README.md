@@ -6,7 +6,7 @@ Hi, I'm Marcelo, a web developer from California. Currently a senior software en
 
 * 💼  Building the cloud supply chain
 * 🌱  Learning about state machines & design systems
-* 👾  Playing [Fortnite](https://fortnitetracker.com/profile/all/celo_fett) or Spider-Man Remastered
+* 👾  Playing [Fortnite](https://fortnitetracker.com/profile/all/celo_fett), Overwatch 2, WoW, or Spider-Man Remastered
 
 **Ongoing Projects:**
 * [Heroes Play Games](https://www.heroesplaygames.com/) - An Extra Life team led by my buddy [Mark](https://twitter.com/borntolone) to raise money for [Valley Children's Hospital](https://www.valleychildrens.org/)
@@ -20,7 +20,6 @@ Hi, I'm Marcelo, a web developer from California. Currently a senior software en
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 
 
 
