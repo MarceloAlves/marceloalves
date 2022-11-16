@@ -14,6 +14,7 @@ Hi, I'm Marcelo, a web developer from California. Currently a senior software en
 * [PitLogger](https://pitlogger.vercel.app/) - Digital BBQ'ing logbook
 * [Starbound Items](https://starbounditems.com/) - Item lookup for the game [Starbound](https://playstarbound.com/)
 * [chakra-bare](https://github.com/marceloalves/chakra-bare) - Barebones Vite + Chakra-UI sandbox
+* [extra-life-ts](https://github.com/heroesplaygames/extra-life-ts) - Extra Life API wrapper
 
 **Languages & Tools:**
 
