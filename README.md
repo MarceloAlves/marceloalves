@@ -6,14 +6,14 @@ Hi, I'm Marcelo, a web developer from California. Currently a senior software en
 
 * 💼  Building the cloud supply chain
 * 🌱  Learning about state machines & design systems
-* 👾  Playing [Fortnite](https://fortnitetracker.com/profile/all/celo_fett), Overwatch 2, WoW, or Spider-Man Remastered
+* 👾  Playing [Fortnite](https://fortnitetracker.com/profile/all/celo_fett)
 
 **Ongoing Projects:**
-* [Heroes Play Games](https://www.heroesplaygames.com/) - An Extra Life team led by my buddy [Mark](https://twitter.com/borntolone) to raise money for [Valley Children's Hospital](https://www.valleychildrens.org/)
-* [The Office API](https://theofficeapi.dev) - A new API based around The Office
-* [SWRPG Shop](https://swrpg-shop.com) - GM's use this tool to randomly generate item shops for players
+* [Heroes Play Games](https://www.heroesplaygames.com/) - [Source](https://github.com/HeroesPlayGames/heroesplaygames.com) - An Extra Life team led by my buddy [Mark](https://twitter.com/borntolone) to raise money for [Valley Children's Hospital](https://www.valleychildrens.org/)
+* [The Office API](https://theofficeapi.dev) - [Source](https://github.com/MarceloAlves/the-office-api-site) - A new API based around The Office
+* [SWRPG Shop](https://swrpg-shop.com) - [Source](https://github.com/marceloalves/swrpg-shop) - GM's use this tool to randomly generate item shops for players. [Now open sourced](https://github.com/marceloalves/swrpg-shop)
 * [PitLogger](https://pitlogger.vercel.app/) - Digital BBQ'ing logbook
-* [Starbound Items](https://starbounditems.com/) - Item lookup for the game [Starbound](https://playstarbound.com/)
+* [Starbound Items](https://starbounditems.com/) - [Source](https://github.com/MarceloAlves/starbounditems) - Item lookup for the game [Starbound](https://playstarbound.com/)
 * [chakra-bare](https://github.com/marceloalves/chakra-bare) - Barebones Vite + Chakra-UI sandbox
 * [extra-life-ts](https://github.com/heroesplaygames/extra-life-ts) - Extra Life API wrapper
 
