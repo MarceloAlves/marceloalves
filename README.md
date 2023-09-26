@@ -6,7 +6,7 @@ Hi, I'm Marcelo, a web developer from California. Currently a senior software en
 
 * 💼  Building the cloud supply chain
 * 🌱  Learning about state machines & design systems
-* 👾  Playing [Fortnite](https://fortnitetracker.com/profile/all/celo_fett), Diablo IV, Starfield, The Legend of Zelda: Tears of the Kingdom
+* 👾  Playing [Fortnite](https://fortnitetracker.com/profile/all/celo_fett), Baldur's Gate 3, Starfield, Diablo IV
 
 **Ongoing Projects:**
 * [Heroes Play Games](https://www.heroesplaygames.com/) - [Source](https://github.com/HeroesPlayGames/heroesplaygames.com) - An Extra Life team led by my buddy [Mark](https://twitter.com/borntolone) to raise money for [Valley Children's Hospital](https://www.valleychildrens.org/)
